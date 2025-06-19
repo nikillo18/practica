@@ -1,1 +1,2 @@
 fetch((locos));
+performance
